@@ -2,9 +2,8 @@
 
 # 📜 C++ | Notes and Assignment | 2nd Semester By Bibek Ghimire
 
-![GitHub](https://img.shields.io/github/license/HELOHOWRUIMUNDADAWOTRPLSHLPMEUR2MCHRNG/cpp?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/HELOHOWRUIMUNDADAWOTRPLSHLPMEUR2MCHRNG/cpp?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/HELOHOWRUIMUNDADAWOTRPLSHLPMEUR2MCHRNG/cpp?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ether18/cpp?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ether18/cpp?style=for-the-badge)
 
 
 </div>
