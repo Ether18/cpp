@@ -58,4 +58,4 @@
 
 
 
-###### Copyright (c) 2022 [Mercury / Jupiter / Mxvenus](https://nikhilbastola.com.np) 
+###### Copyright (c) 2022 [Ether](https://wwww.facebook.com/whaaadup.niggga) 
