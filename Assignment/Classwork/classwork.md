@@ -71,11 +71,11 @@ using namespace std;
 
 class Math {
     public:
-    int sum(int a, int b,int c) {
+    void sum(int a, int b,int c) {
         cout<<"Sum:" << (a+b+c) << endl;
     }
 
-    int average(int a,int b,int c) {
+    void average(int a,int b,int c) {
         cout<<"Average:" << (a+b+c)/3 << endl;
     }
 
