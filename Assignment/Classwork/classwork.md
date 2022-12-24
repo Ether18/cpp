@@ -63,7 +63,7 @@ int modifyNumber(int num, char op)
 ```
 
 
-### 2. write a program that ask user for three integer value and find the sum and its average and also find the greater number among them
+### 2. write a program that ask user for three integer value and find the sum and its average and also find the greater number among them using class
 
 ```cpp
 #include <iostream>
