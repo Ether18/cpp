@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📜 C++ | Notes and Assignment | 2nd Semester
+# 📜 C++ | Notes and Assignment | 2nd Semester By Bibek Ghimire
 
 ![GitHub](https://img.shields.io/github/license/HELOHOWRUIMUNDADAWOTRPLSHLPMEUR2MCHRNG/cpp?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/HELOHOWRUIMUNDADAWOTRPLSHLPMEUR2MCHRNG/cpp?style=for-the-badge)
