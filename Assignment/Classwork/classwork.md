@@ -104,3 +104,20 @@ int main() {
 > Sum:225
 > Average:75 
 ```
+
+
+### 3. print Hello World
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello Nikhil Gandu";
+    return 0;
+}
+```
+
+```md
+> Hello World
+```
